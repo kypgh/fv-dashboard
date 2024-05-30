@@ -1,0 +1,38 @@
+{
+  "name": "forex-dashboard",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "axios": "^1.6.5",
+    "cookies-next": "^4.1.0",
+    "formik": "^2.4.5",
+    "html-react-parser": "^5.1.1",
+    "html-to-react": "^1.7.0",
+    "lottie-web": "^5.12.2",
+    "luxon": "^3.4.4",
+    "next": "14.0.4",
+    "nextjs-progressloader": "^1.1.0",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-icons": "^4.12.0",
+    "react-query": "^3.39.3",
+    "react-spinners": "^0.13.8",
+    "styled-components": "^6.1.8",
+    "usehooks-ts": "^2.13.0",
+    "yup": "^1.3.3"
+  },
+  "devDependencies": {
+    "@types/luxon": "^3.4.1",
+    "@types/node": "^20",
+    "@types/nprogress": "^0.2.3",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "typescript": "^5"
+  }
+}
